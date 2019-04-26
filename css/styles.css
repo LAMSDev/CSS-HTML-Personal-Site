@@ -7,10 +7,11 @@
 
 body{
     background-color: #eaf5ff;
+    text-align: center;
 }
 
-div{
-    background-color: chocolate;
+div.CONTENEDOR-SUPERIOR{
+    background-color: #eaf5ff;;
 }
 
 div.CONTENEDOR-INTERMEDIO {
