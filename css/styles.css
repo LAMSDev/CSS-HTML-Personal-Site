@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -7,29 +8,48 @@
 
 body{
     background-color: #eaf5ff;
+    font-family: 'Ubuntu', sans-serif;
     text-align: center;
 }
 
+h1{
+
+    font-family: 'Caveat', cursive;
+
+}
+
+h2,h3{
+    font-family: 'Oswald', sans-serif;
+}
  
 
 div.CONTENEDOR-SUPERIOR{
     background-color: #eaf5ff;;
     position: relative;
-    padding-top: 130px;
+    padding-top: 160px;
     
 }
 
+#ajustetamaño{
+    height: 600px;
+}
+
 div.CONTENEDOR-INTERMEDIO {
-    background-color: red;
-    width: 200px;
-    height: 200px;
+   
+}
+
+#ImagenPerfil{
+    height: 350px;
 }
 
 div.CONTENEDOR-INFERIOR {
-    background-color: blue;
-    width: 200px;
-    height: 200px;
+
+
+
+
+    
 }
+
 
 .NUBE-INFERIOR{
     bottom: 890px ;
