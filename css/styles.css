@@ -80,7 +80,10 @@ div.CONTENEDOR-INFERIOR {
 .skill-row{
     width: 50%;
     text-align: center;
-    margin: 0 auto;
+    margin: 100px auto  100px auto;
+    text-align:left ;
+    line-height: 1.5;
+
 }
 
 
