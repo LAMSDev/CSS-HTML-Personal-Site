@@ -42,6 +42,16 @@ h3{
  
 a{
     color: #5F99E3;
+   
+}
+
+hr{
+    border-style: none;
+    border-top: 7px dotted lightgrey;
+    height: 1px;
+    width: 4%;
+    margin: auto;
+   
 }
 
 div.CONTENEDOR-SUPERIOR{
@@ -62,12 +72,43 @@ div.CONTENEDOR-SUPERIOR{
 }
 
 div.CONTENEDOR-INTERMEDIO {
+    text-align:justify;
+    text-align:center;
    
 }
 
 #ImagenPerfil{
     height: 350px;
+    margin: 50px auto 10px auto;
+    padding: 
+
 }
+
+.ImagenesHabilidades1{
+  
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  
+  
+  
+  
+  
+}
+
+.ImagenesHabilidades2{
+  
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+   
+  }
+
+  .PosDerecha{
+     /*  text-align: right; */
+    
+
+  }
 
 div.CONTENEDOR-INFERIOR {
 
@@ -77,14 +118,37 @@ div.CONTENEDOR-INFERIOR {
     
 }
 
+.SUBPERFIL{
+   width: 50%;
+   margin: 45px auto 40px auto; 
+}
+
 .skill-row{
-    width: 50%;
-    text-align: center;
+    width: 60%;
     margin: 100px auto  100px auto;
-    text-align:left ;
+    text-align:justify;
     line-height: 1.5;
+    
 
 }
+
+
+.butn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 30px;
+    background: #79B3FF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .butn:hover {
+    background: #FFC627;
+    text-decoration: none;
+  }
 
 
 .NUBE-INFERIOR{
