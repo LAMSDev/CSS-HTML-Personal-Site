@@ -9,11 +9,20 @@
 body{
     background-color: #eaf5ff;
     font-family: 'Ubuntu', sans-serif;
+    font-size: 0.875rem;;
     text-align: center;
+    background-image: linear-gradient(to bottom, 
+    #e6fcff, #e0f7fe, #dbf2fc, #d6edfb, 
+    #d3e8f9, #cfe4f8, #cbe1f8, #c8ddf7, 
+    #c2daf7, #bcd7f8, #b6d5f8, #b0d2f8);
 
  /*    hola */
 
 }
+
+
+
+
 
 h1{
 
@@ -29,7 +38,7 @@ h2{
     font-family: 'Oswald', sans-serif;
     font-size: 1.875rem;
     margin: 60px;
-    color: #6AABFD;
+    color: #597CCB;
     font-weight: normal;
     
 }
@@ -37,17 +46,19 @@ h2{
 h3{
 
     font-family: 'Oswald', sans-serif;
-    color: #5F99E3;
+    font-size: 1.25rem;
+    color: #6AABFD;
 }
  
 a{
     color: #5F99E3;
+    text-decoration: none;
    
 }
 
 hr{
     border-style: none;
-    border-top: 7px dotted lightgrey;
+    border-top: 7px dotted whitesmoke;
     height: 1px;
     width: 4%;
     margin: auto;
@@ -55,16 +66,18 @@ hr{
 }
 
 div.CONTENEDOR-SUPERIOR{
-    background-color: #eaf5ff;;
+    /* background-color: #eaf5ff;; */
     position: relative;
     padding-top: 160px;
-    background-color: #C6E0FF;
+  /*   background-color: #C6E0FF; */
     
 }
 
 
 
-
+.footer-link-contacto{
+    font-size: 30px;
+}
 
 
 #ajustetamaño{
@@ -120,11 +133,12 @@ div.CONTENEDOR-INFERIOR {
 
 .SUBPERFIL{
    width: 50%;
-   margin: 45px auto 40px auto; 
+   margin: 50px auto 50px auto; 
+   text-align: center
 }
 
 .skill-row{
-    width: 60%;
+    width: 50%;
     margin: 100px auto  100px auto;
     text-align:justify;
     line-height: 1.5;
