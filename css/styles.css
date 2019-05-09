@@ -123,9 +123,14 @@ div.CONTENEDOR-INTERMEDIO {
 
   }
 
+.CONTACTO{
+    width: 50%; 
+    margin: auto;
+}
 div.CONTENEDOR-INFERIOR {
 
-
+width: 50%;
+margin: auto;
 
 
     
