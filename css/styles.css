@@ -162,7 +162,12 @@ margin: auto;
     text-decoration: none;
   }
 
-
+div.CONTENEDOR-INFERIOR{
+    padding: 40px 0 40px;
+    background-color: #71ABFA;
+    width:100%;
+    margin-top: 25px;
+}
 /* .NUBE-INFERIOR{
     bottom: 890px ;
     position: absolute;
