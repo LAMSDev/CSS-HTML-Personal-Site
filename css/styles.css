@@ -86,7 +86,14 @@ div.CONTENEDOR-SUPERIOR{
 
 .footer-link-contacto{
     font-size: 30px;
+    margin: 10px;
 }
+
+  
+.footer-link-contacto:hover {
+    color: #FFC627;
+    
+  }
 
 
 
@@ -164,7 +171,7 @@ margin: auto;
 
 div.CONTENEDOR-INFERIOR{
     padding: 40px 0 40px;
-    background-color: #71ABFA;
+    background-color: #D0DDE8;
     width:100%;
     margin-top: 25px;
 }

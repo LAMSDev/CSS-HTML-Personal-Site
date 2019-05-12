@@ -1,0 +1,112 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.8
+--------------------
+GitHub Token: b3f7e205a93c7464a35c53a85d2cbefc6942d4a3
+GitHub Gist: 87976dc3ea04970ae223140efb7a709b
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  andromeda v1.4.2
+  atom-material-theme v1.5.0
+  auto-close-tag v0.5.6
+  auto-rename-tag v0.0.15
+  ayu v0.18.0
+  beautify v1.4.11
+  beauty v0.0.2
+  better-align v1.1.6
+  better-comments v2.0.3
+  bracket-pair-colorizer-2 v0.0.28
+  chinolor v0.2.10
+  city-lights-theme v1.1.0
+  code-beautifier v2.2.1
+  code-runner v0.9.8
+  code-settings-sync v3.2.8
+  color-highlight v2.3.0
+  compulim-vscode-closetag v1.2.0
+  Cyberpunk v1.2.1
+  debugger-for-chrome v4.11.3
+  electron v0.2.5
+  emoji v0.0.3
+  emojisense v0.5.1
+  eva-theme v0.7.6
+  fairyfloss v0.0.5
+  file-icons v1.0.17
+  file-icons-mac v1.0.1
+  future-of-code v0.7.0
+  git-graph v1.4.5
+  git-tools v1.0.0
+  gruvbox v1.3.11
+  hipsum v1.0.7
+  html-css-class-completion v1.18.0
+  html-preview-vscode v0.2.5
+  html-snippets v0.2.1
+  html-snippets v0.1.5
+  html5-boilerplate v1.0.3
+  identical-sublime-monokai-csharp-theme-colorizer v0.11.1
+  jeng-theme-light v1.0.5
+  live-html-previewer v0.3.0
+  live-server-preview v0.1.4
+  LiveServer v5.5.1
+  mac-classic-theme v0.0.1
+  markdown-emoji v0.0.7
+  material-icon-theme v3.7.0
+  material-icons v0.2.0
+  material-palenight-theme v1.9.5
+  Material-theme v2.21.0
+  min-theme v1.2.0
+  mssql v1.5.0
+  noctis v7.20.0
+  nostromo-theme v1.0.1
+  npm-intellisense v1.3.0
+  one-monokai v0.3.7
+  plsql-language v1.8.1
+  polacode v0.2.2
+  popping-and-locking-vscode v2.0.4
+  prettier-vscode v1.8.1
+  python v2019.3.6558
+  shades-of-purple v4.17.0
+  slack-theme v1.9.8
+  sqlformatter v0.0.7
+  stylelint v0.48.0
+  swdc-vscode v0.14.8
+  theme-bluloco-dark v2.7.2
+  theme-bluloco-light v2.7.2
+  theme-cobalt2 v2.1.6
+  theme-light-vs-mac v0.4.5
+  theme-material-theme v1.0.1
+  theme-monokai-pro-vscode v1.1.12
+  theme-panda v1.3.0
+  theme-sapphire v0.8.1
+  todo-tree v0.0.129
+  vsc-material-theme v2.8.2
+  vscode-colorize v0.8.10
+  vscode-eslint v1.8.2
+  vscode-faker v1.3.0
+  vscode-github v0.30.2
+  vscode-hipster-theme v1.0.2
+  vscode-html-css v0.2.0
+  vscode-icons v8.6.0
+  vscode-javascript-snippet-pack v0.1.5
+  vscode-npm-script v0.3.5
+  vscode-peacock v2.1.0
+  vscode-pigments v1.0.6
+  vscode-simple-icons v1.11.4
+  vscode-simpler-icons v1.6.5
+  vscode-theme-onedark v2.1.0
+  vsliveshare v1.0.45
+  vue-theme v1.1.2
+  winteriscoming v0.9.0
+--------------------
+Done.
